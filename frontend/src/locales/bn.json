@@ -1,0 +1,11 @@
+{
+  "navbar": {
+    "brand": "BRAINBLOOM INVENTORY",
+    "home": "হোম",
+    "personal": "ব্যক্তিগত পাতা",
+    "admin": "অ্যাডমিন ড্যাশবোর্ড",
+    "search": "অনুসন্ধান...",
+    "login": "লগইন করুন",
+    "logout": "লগআউট"
+  }
+}

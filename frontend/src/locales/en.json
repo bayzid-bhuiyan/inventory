@@ -1,0 +1,11 @@
+{
+  "navbar": {
+    "brand": "BRAINBLOOM INVENTORY",
+    "home": "HOME",
+    "personal": "ACCOUNTS",
+    "admin": "ADMIN",
+    "search": "SEARCH...",
+    "login": "LOGIN",
+    "logout": "LOGOUT"
+  }
+}
